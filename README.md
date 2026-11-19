@@ -8,3 +8,7 @@ PazPlay is only a player: **it does not include or sell any channels, movies, se
 
 **Português:** PazPlay é um player de listas IPTV (M3U e Xtream Codes) para Android, Android TV e Fire TV.
 PazPlay é apenas um player: **não inclui nem vende canais, filmes, séries ou listas.**
+
+**Política de privacidad / Privacy policy / Política de privacidade:** https://keyserbourneapp.github.io/pazplay/privacidad.html
+
+**Contacto / Contact / Contato:** pazplay.soporte@gmail.com
